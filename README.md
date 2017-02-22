@@ -24,6 +24,7 @@ https://www.flickr.com/photos/britishlibrary
 ###Fonts and Type Tools
 http://www.typ.io/
 http://www.creativebloq.com/graphic-design-tips/best-free-fonts-for-designers-1233380
+https://fonts.google.com/
 
 ###Wordpress
 http://underscores.me/
@@ -43,12 +44,18 @@ http://realfavicongenerator.net/
 
 ###Icons
 http://www.transformicons.com/
+http://fontawesome.io/
 
 ###Hosting
+https://www.namecheap.com/
+
 http://www.divshot.com/
 
+https://www.digitalocean.com/
 
 ##Inspiration
+https://httpster.net/
+
 
 ###Zurb's Design Pattern Library
 http://patterntap.com/
